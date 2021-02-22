@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">New Technologies</string>
+    <string name="air_taxi">Air Taxi</string>
+    <string name="automatic_car">Automatic Car</string>
+    <string name="blockchain">BlockChain</string>
+    <string name="renewable_energy">Renewable Energy</string>
+    <string name="rocket">Rocket</string>
+</resources>
